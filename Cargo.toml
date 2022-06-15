@@ -11,3 +11,7 @@ members = [
     "examples/streams",
     "examples/dyn_templates",
 ]
+
+[patch.crates-io.schemars]
+git = "https://github.com/Seatlab-dev/schemars.git"
+rev = "df322feb675a194b62ddd449deb6c731417052b6"

@@ -38,7 +38,7 @@ impl OpenApi {
     }
 
     pub fn default_version() -> String {
-        "3.0.0".to_owned()
+        "3.1.0".to_owned()
     }
 }
 
